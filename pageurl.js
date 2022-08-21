@@ -15,5 +15,3 @@ const page_urls = [
     { info: "[工具]长安中二时辰", url: "tools/time" },
     { info: "[工具]文字钟", url: "tools/word-clock" },
 ];
-
-export default page_urls;
