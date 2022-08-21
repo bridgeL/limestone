@@ -1,0 +1,21 @@
+.words {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container {
+    cursor: default;
+    width: 70%;
+}
+.word {
+    box-sizing: border-box;
+    float:left;
+}
+textarea {
+    width: 70%;
+    height: 100px;
+}
+#root {
+    white-space: pre;
+    text-align: center;
+}

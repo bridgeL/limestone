@@ -1,0 +1,98 @@
+[
+    {
+        "type": "时间状语",
+        "word": "as",
+        "detail": "as接持续动作，强调主句从句动作的同时发生",
+        "example": "He hurried home, looking behind as he went"
+    },
+    {
+        "type": "时间状语",
+        "word": "as soon as",
+        "detail": "一...就",
+        "example": "I’ll tell him the news as soon as I see him"
+    },
+    {
+        "type": "原因状语",
+        "word": "as",
+        "detail": "因为",
+        "example": "As I was afraid, I hid myself"
+    },
+    {
+        "type": "非限制性定语从句",
+        "word": "as",
+        "detail": "正如...，就像...，据...;as可以代替整个句子或一件事，引导非限制性定语从句;非限制性定语从句在句中主要起补充说明作用，与主句之间往往有逗号隔开，独立存在;非限定定语从句一般由连接词which和as引导;as we can see, as can be seen, as we know, as is（well） known, as may be imagined, as often happens, as has been said before, as was mentioned above, as is often the case, as/indeed it is",
+        "example": "As it is, sleep is so undervalued that getting by on fewer hours has become a badge of honor."
+    },
+    {
+        "type": "目的状语",
+        "word": "in case",
+        "detail": "以防，以免，免得，生怕;从句使用虚拟语气，由should＋动词原形构成",
+        "example": "I hid the book lest he should see it."
+    },
+    {
+        "type": "条件状语",
+        "word": "in case",
+        "detail": "如果",
+        "example": "In case I forget, please remind me about that"
+    },
+    {
+        "type": "条件状语",
+        "word": "as long as",
+        "detail": "只要",
+        "example": "You can go out, as long as (so long as ) you promise to be back before eleven"
+    },
+    {
+        "type": "条件状语",
+        "word": "so long as",
+        "detail": "只要",
+        "example": "You can go out, as long as (so long as ) you promise to be back before eleven"
+    },
+    {
+        "type": "方式状语",
+        "word": "as",
+        "detail": "按...的方式",
+        "example": "Leave it as it is;The teacher told the students to do as he did;Please draw a cat as you were told"
+    },
+    {
+        "type": "方式状语",
+        "word": "as if",
+        "detail": "就像是、好像",
+        "example": "He walked as if he were drunk"
+    },
+    {
+        "type": "方式状语",
+        "word": "as though",
+        "detail": "就像是、好像",
+        "example": "He walked as if he were drunk"
+    },
+    {
+        "type": "让步状语",
+        "word": "as",
+        "detail": "虽然、尽管;可以部分倒装进行强调",
+        "example": "Proud as the nobles are, he is afraid to see me"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "as...as",
+        "detail": "和...一样",
+        "example": "The place doesn't look the same as it was before liberation;Have you bought the same book as I referred to yesterday?"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "the same...as",
+        "detail": "和...一样",
+        "example": "The place doesn't look the same as it was before liberation;Have you bought the same book as I referred to yesterday?"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "so...as",
+        "detail": "如此...以至于;as在从句中做成分，指代先行词",
+        "example": "It is such an interesting book as we all want to read"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "such...as",
+        "detail": "如此...以至于;as在从句中做成分，指代先行词",
+        "example": "It is such an interesting book as we all want to read"
+    }
+]

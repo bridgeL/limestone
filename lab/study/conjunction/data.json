@@ -1,0 +1,260 @@
+[
+    {
+        "type": "时间状语",
+        "word": "when",
+        "detail": "when 接瞬间动作、持续动作皆可;如果when引导的从句位于主句之后，有时要译成“就”、“才”、“这时”等",
+        "example": "When I was a boy, I used to go to the seashore on Sundays"
+    },
+    {
+        "type": "时间状语",
+        "word": "as",
+        "detail": "as接持续动作，强调主句从句动作的同时发生",
+        "example": "He hurried home, looking behind as he went"
+    },
+    {
+        "type": "时间状语",
+        "word": "while",
+        "detail": "while 接持续动作，强调主句从句动作的同时发生",
+        "example": "While he was in London, he studied music"
+    },
+    {
+        "type": "时间状语",
+        "word": "whenever",
+        "detail": "无论何时;任何时间(都行)",
+        "example": "We shall go there whenever we are free"
+    },
+    {
+        "type": "时间状语",
+        "word": "before",
+        "detail": "之前;如果before引导的从句位于主句之后，有时要译成“就”、“才”、“这时”等",
+        "example": "He almost knocked me down before he saw me;I would rather kill myself before I apologize to him"
+    },
+    {
+        "type": "时间状语",
+        "word": "after",
+        "detail": "之后",
+        "example": "略"
+    },
+    {
+        "type": "时间状语",
+        "word": "since",
+        "detail": "自从;从句使用过去式，如果从句动作为持续性动作则意为（不再）进行该动作(多久)",
+        "example": "It has been 15 years since he left;It is 5 years since he was married（他距离“他曾结婚的状态”已经好几年了 = 他离婚已经好几年了）"
+    },
+    {
+        "type": "时间状语",
+        "word": "till",
+        "detail": "till主句一般为肯定、延续性动作",
+        "example": "I waited till he had finished his work"
+    },
+    {
+        "type": "时间状语",
+        "word": "until",
+        "detail": "until主句一般为否定、瞬间性动作",
+        "example": "I didn’t go to bed until (till) he came back"
+    },
+    {
+        "type": "时间状语",
+        "word": "as soon as",
+        "detail": "一...就",
+        "example": "I’ll tell him the news as soon as I see him"
+    },
+    {
+        "type": "时间状语",
+        "word": "once",
+        "detail": "一...就",
+        "example": "Once you have got used to it, you will like it"
+    },
+    {
+        "type": "时间状语",
+        "word": "hardly/scarcely/barely...when、no sooner...than",
+        "detail": "一...就;如果hardly或no sooner或scarcely置于句首，句子必须用部分倒装结构",
+        "example": "Hardly had I got home when it began to rain"
+    },
+    {
+        "type": "时间状语",
+        "word": "time/moment/instant/day",
+        "detail": "与此同时;在其前加冠词（the）或不定代词，如the first time、the moment、the instant、the day、every time、each time;by the time",
+        "example": "Each time he came, he would call on me;By the time he was fourteen, he had taught himself advanced mathematics"
+    },
+    {
+        "type": "时间状语",
+        "word": "soon/shortly after",
+        "detail": "不久后",
+        "example": "略"
+    },
+    {
+        "type": "时间状语",
+        "word": "immediately",
+        "detail": "一...就",
+        "example": "You must show him in immediately he comes"
+    },
+    {
+        "type": "原因状语",
+        "word": "because",
+        "detail": "因为;语气最强;在强调句中强调原因状语从句，只能用because引导，不可用as或since;because可以引导表语从句,而as, since不可以",
+        "example": "He didn’t come because he was ill"
+    },
+    {
+        "type": "原因状语",
+        "word": "when",
+        "detail": "既然",
+        "example": "I won't tell you when you won't listen"
+    },
+    {
+        "type": "原因状语",
+        "word": "since",
+        "detail": "既然",
+        "example": "Since you are here, you must do it"
+    },
+    {
+        "type": "原因状语",
+        "word": "now that",
+        "detail": "既然",
+        "example": "Now that you are in High School, you will probably spend more in reading"
+    },
+    {
+        "type": "原因状语",
+        "word": "as",
+        "detail": "因为",
+        "example": "As I was afraid, I hid myself"
+    },
+    {
+        "type": "并列连词",
+        "word": "for",
+        "detail": "表示对原因的推测",
+        "example": "It must be morning, for the birds are singing"
+    },
+    {
+        "type": "原因状语",
+        "word": "considering/seeing/given (that)",
+        "detail": "考虑到／鉴于/ 由于／既然／因为",
+        "example": "Seeing (that) he was badly ill, we sent for the doctor"
+    },
+    {
+        "type": "地点状语",
+        "word": "where",
+        "detail": "地点",
+        "example": "Go back where you came from;Where there is a will, there is a way"
+    },
+    {
+        "type": "地点状语",
+        "word": "wherever",
+        "detail": "无论何地",
+        "example": "略"
+    },
+    {
+        "type": "非限制性定语从句",
+        "word": "as",
+        "detail": "正如...，就像...，据...;as可以代替整个句子或一件事，引导非限制性定语从句;非限制性定语从句在句中主要起补充说明作用，与主句之间往往有逗号隔开，独立存在;非限定定语从句一般由连接词which和as引导;as we can see, as can be seen, as we know, as is（well） known, as may be imagined, as often happens, as has been said before, as was mentioned above, as is often the case, as/indeed it is",
+        "example": "As it is, sleep is so undervalued that getting by on fewer hours has become a badge of honor."
+    },
+    {
+        "type": "非限制性定语从句",
+        "word": "which",
+        "detail": "略",
+        "example": "略"
+    },
+    {
+        "type": "目的状语",
+        "word": "so that、in order that",
+        "detail": "为了",
+        "example": "I got up so early that I caught the first bus;She married him so that she might tend and comfort him"
+    },
+    {
+        "type": "目的状语",
+        "word": "in case、for fear that、lest",
+        "detail": "以防，以免，免得，生怕;从句使用虚拟语气，由should＋动词原形构成",
+        "example": "I hid the book lest he should see it."
+    },
+    {
+        "type": "结果状语",
+        "word": "so that、such that",
+        "detail": "如此...以至于;that在从句中不做成分",
+        "example": "There were so many people (=such a lot of people) in the room that we could not get in"
+    },
+    {
+        "type": "条件状语",
+        "word": "if、in case",
+        "detail": "如果",
+        "example": "In case I forget, please remind me about that"
+    },
+    {
+        "type": "条件状语",
+        "word": "unless、if not",
+        "detail": "除非",
+        "example": "Unless you work hard, you will fail"
+    },
+    {
+        "type": "条件状语",
+        "word": "as/so long as",
+        "detail": "只要",
+        "example": "You can go out, as long as (so long as ) you promise to be back before eleven"
+    },
+    {
+        "type": "方式状语",
+        "word": "as",
+        "detail": "按...的方式",
+        "example": "Leave it as it is;The teacher told the students to do as he did;Please draw a cat as you were told"
+    },
+    {
+        "type": "方式状语",
+        "word": "as if/though",
+        "detail": "就像是、好像",
+        "example": "He walked as if he were drunk"
+    },
+    {
+        "type": "让步状语",
+        "word": "even if/though",
+        "detail": "即使",
+        "example": ""
+    },
+    {
+        "type": "让步状语",
+        "word": "though、although",
+        "detail": "虽然、尽管;不能与but连用，但可以与yet、still等副词连用，用于加强语气;可以部分倒装进行强调",
+        "example": "Though he is old, yet he is active;Though ( Although ) he was tired, yet (still) he went on working"
+    },
+    {
+        "type": "让步状语",
+        "word": "as",
+        "detail": "虽然、尽管;可以部分倒装进行强调",
+        "example": "Proud as the nobles are, he is afraid to see me"
+    },
+    {
+        "type": "让步状语",
+        "word": "whatever系列、no matter what系列",
+        "detail": "无论如何都",
+        "example": "Wherever (no matter where) you work, you can always find time to study"
+    },
+    {
+        "type": "让步状语",
+        "word": "whether",
+        "detail": "无论是否",
+        "example": "Whether he comes or not, we’ll discuss the problem this afternoon"
+    },
+    {
+        "type": "名词性从句",
+        "word": "whether",
+        "detail": "是否;使用范围比if更广泛，可直接替换if",
+        "example": "I can’t decide whether to stay;I want to know whether it’s good news or not;His father is worried about whether he lose his work"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "as...as、the same...as",
+        "detail": "和...一样",
+        "example": "The place doesn't look the same as it was before liberation;Have you bought the same book as I referred to yesterday?"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "the same...that",
+        "detail": "与as不同，that这里主句、从句指的是同一件事物，as的主句、从句是相似的两件事物",
+        "example": "this is the same book that I lost"
+    },
+    {
+        "type": "限制性定语从句",
+        "word": "so/such...as",
+        "detail": "如此...以至于;as在从句中做成分，指代先行词",
+        "example": "It is such an interesting book as we all want to read"
+    }
+]

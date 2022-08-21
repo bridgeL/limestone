@@ -1,0 +1,42 @@
+<html>
+
+<head>
+    <title>yygq聊天室</title>
+    <!-- <script src="bushi.js"></script> -->
+    <script type="text/javascript" src="buhui.js">
+
+    </script>
+</head>
+
+<body>
+    <p>网络MEME聊天室</p>
+    <p>
+        <TEXTAREA id="txt" rows="22" cols="80">聊天室启动中...</TEXTAREA>
+    </p>
+    <script type="text/javascript">
+        function myfun() {
+            alert('聊天室启动成功\n');
+            txt.value = '聊天室启动成功\n';
+        };
+
+
+        var mytask;
+
+        function start() {
+            mytask = setInterval(run, 500);
+        };
+
+        function stop() {
+            clearInterval(mytask);
+        }
+
+
+        window.onload = myfun;
+    </script>
+
+    <input type="button" value="开始聊天" style="width:100px;height:50px" onclick="start()">
+    <input type="button" value="结束聊天" style="width:100px;height:50px" onclick="stop()">
+
+</body>
+
+</html>
